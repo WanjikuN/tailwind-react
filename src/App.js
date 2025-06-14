@@ -3,7 +3,7 @@ import USSDPush from './USSDPush';
 
 function App() {
   return (
-    <div className="App">
+    <div className="flex flex-row border-solid">
      <USSDPush />
     </div>
   );
